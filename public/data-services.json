@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Development",
+    "shortDescription": "A time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+    "description": "A In the design process, they create both functional and beautiful things. The team possesses unique individuality and strong qualifications and can easily translate something so abstract and visionary into a digital experience. They always put the clients first no matter how complicated the tasks are.",
+    "img": ["../pict-api-1.png", "../pict-api-2.png", "../pict-api-3.png"]
+  },
+  {
+    "id": 2,
+    "title": "Custom App Development",
+    "shortDescription": "B time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+    "description": "B In the design process, they create both functional and beautiful things. The team possesses unique individuality and strong qualifications and can easily translate something so abstract and visionary into a digital experience. They always put the clients first no matter how complicated the tasks are.",
+    "img": ["../pict-api-1.png", "../pict-api-2.png", "../pict-api-3.png"]
+  },
+  {
+    "id": 3,
+    "title": "Integration With 3rd Party Web Services",
+    "shortDescription": "C time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+    "description": "C In the design process, they create both functional and beautiful things. The team possesses unique individuality and strong qualifications and can easily translate something so abstract and visionary into a digital experience. They always put the clients first no matter how complicated the tasks are.",
+    "img": ["../pict-api-1.png", "../pict-api-2.png", "../pict-api-3.png"]
+  },
+  {
+    "id": 4,
+    "title": "Hosting/Maintenance",
+    "shortDescription": "D time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+    "description": "D In the design process, they create both functional and beautiful things. The team possesses unique individuality and strong qualifications and can easily translate something so abstract and visionary into a digital experience. They always put the clients first no matter how complicated the tasks are.",
+    "img": ["../pict-api-1.png", "../pict-api-2.png", "../pict-api-3.png"]
+  },
+  {
+    "id": 5,
+    "title": "Design UX/UI",
+    "shortDescription": "E time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+    "description": "E In the design process, they create both functional and beautiful things. The team possesses unique individuality and strong qualifications and can easily translate something so abstract and visionary into a digital experience. They always put the clients first no matter how complicated the tasks are.",
+    "img": ["../pict-api-1.png", "../pict-api-2.png", "../pict-api-3.png"]
+  },
+  {
+    "id": 6,
+    "title": "SEO Services",
+    "shortDescription": "F time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+    "description": " F In the design process, they create both functional and beautiful things. The team possesses unique individuality and strong qualifications and can easily translate something so abstract and visionary into a digital experience. They always put the clients first no matter how complicated the tasks are.",
+    "img": ["../pict-api-1.png", "../pict-api-2.png", "../pict-api-3.png"]
+  }
+]

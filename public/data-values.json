@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Transparency",
+    "img": "../bg-values-1.png",
+    "description": "The goal of Wolven D.O.O. is to get as close as possible to the ideal of a ''glass company''.Our key to this is clear communication with our customers as well as the disclosure of our workflows and the permanent involvement of the customer in the creative processes."
+  },
+  {
+    "id": 2,
+    "title": "Accountability",
+    "img": "../bg-values-1.png",
+    "description": "We are your competent partner for web development and everything that goes with it. That means we don't just make empty promises, but deliver measurable results as well as realadded value."
+  },
+  {
+    "id": 3,
+    "title": "Dedication",
+    "img": "../bg-values-2.png",
+    "description": "Just being good at something is one side. But for truly perfect results and content that converts, it takes people who put their heart and soul into every project until you as our client and partner, are 100% satisfied."
+  }
+]

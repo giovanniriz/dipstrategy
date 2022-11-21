@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "SAM FLEX",
+    "picture": "../team/1.png",
+    "position": "Director",
+    "socialMedia": [
+      "../logos/linked.png",
+      "../logos/facebook.png",
+      "../logos/twitter.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "KATE LARSON",
+    "picture": "../team/2.png",
+    "position": "Manager",
+    "socialMedia": [
+      "../logos/linked.png",
+      "../logos/facebook.png",
+      "../logos/twitter.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "BOBBY FISH",
+    "picture": "../team/3.png",
+    "position": "Designer",
+    "socialMedia": [
+      "../logos/linked.png",
+      "../logos/facebook.png",
+      "../logos/twitter.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "AMANDA JAMES",
+    "picture": "../team/4.png",
+    "position": "Programmer",
+    "socialMedia": [
+      "../logos/linked.png",
+      "../logos/facebook.png",
+      "../logos/twitter.png"
+    ]
+  }
+]

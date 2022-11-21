@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "HANA BANK Website",
+    "service": "Custom WEB Development",
+    "companyAchievements": [
+      {
+        "no": 1,
+        "achievement": "2017 Webby Award Winner for Best Shopping App"
+      },
+      {
+        "no": 2,
+        "achievement": "DSC was reportedly acquired by Unilever for $1 billion"
+      },
+      {
+        "no": 3,
+        "achievement": "4.8 Google Play Reviews"
+      },
+      {
+        "no": 4,
+        "achievement": "97% of app users would recommend the DSC app to a friend"
+      }
+    ],
+    "img": [
+      "../portfolios/1/bg-dot.png",
+      "../portfolios/1/bg-desktop-1.png",
+      "../portfolios/1/bg-mobile-1.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "UTVI PWA",
+    "service": "Custom App Development",
+    "companyAchievements": [
+      {
+        "no": 1,
+        "achievement": "2017 Webby Award Winner for Best Shopping App"
+      },
+      {
+        "no": 2,
+        "achievement": "DSC was reportedly acquired by Unilever for $1 billion"
+      },
+      {
+        "no": 3,
+        "achievement": "4.8 Google Play Reviews"
+      },
+      {
+        "no": 4,
+        "achievement": "97% of app users would recommend the DSC app to a friend"
+      }
+    ],
+    "img": [
+      "../portfolios/2/bg-dot.png",
+      "../portfolios/2/bg-desktop-2.1.png",
+      "../portfolios/2/bg-desktop-2.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "BASF WEB DESIGN",
+    "service": "DESIGN UI/UX",
+    "companyAchievements": [
+      {
+        "no": 1,
+        "achievement": "2017 Webby Award Winner for Best Shopping App"
+      },
+      {
+        "no": 2,
+        "achievement": "DSC was reportedly acquired by Unilever for $1 billion"
+      },
+      {
+        "no": 3,
+        "achievement": "4.8 Google Play Reviews"
+      },
+      {
+        "no": 4,
+        "achievement": "97% of app users would recommend the DSC app to a friend"
+      }
+    ],
+    "img": [
+      "../portfolios/3/bg-dot.png",
+      "../portfolios/3/bg-desktop-3.1.png",
+      "../portfolios/3/bg-mobile-3.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Open Fashion Mobile App",
+    "service": "E-Commerce Development",
+    "companyAchievements": [
+      {
+        "no": 1,
+        "achievement": "2017 Webby Award Winner for Best Shopping App"
+      },
+      {
+        "no": 2,
+        "achievement": "DSC was reportedly acquired by Unilever for $1 billion"
+      },
+      {
+        "no": 3,
+        "achievement": "4.8 Google Play Reviews"
+      },
+      {
+        "no": 4,
+        "achievement": "97% of app users would recommend the DSC app to a friend"
+      }
+    ],
+    "img": [
+      "../portfolios/4/bg-dot.png",
+      "../portfolios/4/bg-mobile-4.1.jpg",
+      "../portfolios/4/bg-mobile-4.jpg"
+    ]
+  }
+]

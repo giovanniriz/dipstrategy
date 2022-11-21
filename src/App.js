@@ -1,23 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import HomePage from "./components/pages/HomePage";
+import ModalChoose from "../src/components/modal/ModalChoose";
 
 function App() {
+  const [modalShow, setModalShow] = useState(true);
+  const [content, setContent] = useState({});
+
+  const pageFirstChoose = () => {
+    setContent({
+      id: 1,
+      description: "We Assist you in solving tomorrow's problems today",
+      background: "dipstrategy-bg.png",
+    });
+    setModalShow(false);
+  };
+
+  const pageSecondChoose = () => {
+    setContent({
+      id: 2,
+      description: "Creating High performance Digital Asset",
+      background: "dipstrategy-bg-2.2.png",
+    });
+    setModalShow(false);
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <ModalChoose
+        show={modalShow}
+        pageFirstChoose={pageFirstChoose}
+        pageSecondChoose={pageSecondChoose}
+      />
+
+      {!modalShow && <HomePage content={content} />}
     </div>
   );
 }
